@@ -14,7 +14,7 @@
 <b> ⚡ Principais Repositórios</b>:
 
 <a href="https://github.com/karinnecristina/backtesting-python">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caiquemiranda&repo=backtesting-python=dark" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caiquemiranda&repo=backtesting-price-python=dark" />
 </a>
 
 <a href="https://github.com/caiquemiranda/algo-trading">
