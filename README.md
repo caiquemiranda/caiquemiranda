@@ -14,9 +14,9 @@
 <b> ⚡ Principais Repositórios</b>:
 
 <a href="https://github.com/karinnecristina/backtesting-python">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caiquemiranda&repo=backtesting-python=dark" />
 </a>
 
 <a href="https://github.com/caiquemiranda/algo-trading">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Engenharia_de_Dados&theme=dark" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=caiquemiranda&repo=algo-trading=dark" />
 </a>
