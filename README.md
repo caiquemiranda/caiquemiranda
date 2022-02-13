@@ -1,16 +1,22 @@
-### Hi there 👋
+<b> :chart_with_upwards_trend: Estatísticas</b>:
 
-<!--
-**caiquemiranda/caiquemiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/caiquemiranda">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caiquemiranda&show_icons=true&theme=dark&include_commits=true"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/caiquemiranda">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemiranda&layout=compact&langs_count=8&theme=dark"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br></br>
+
+<b> ⚡ Principais Repositórios</b>:
+
+<a href="https://github.com/karinnecristina/backtesting-python">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark" />
+</a>
+
+<a href="https://github.com/caiquemiranda/algo-trading">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Engenharia_de_Dados&theme=dark" />
+</a>
