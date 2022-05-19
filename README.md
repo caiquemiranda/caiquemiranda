@@ -26,6 +26,6 @@
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Tensor Flow](https://img.shields.io/badge/-Tensor%20Flow-black?style=flat-square&logo=tensor-flow)
  
-
 
