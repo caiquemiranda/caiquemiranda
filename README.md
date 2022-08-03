@@ -27,4 +27,9 @@
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
  ![Tensor Flow](https://img.shields.io/badge/-Tensor%20Flow-black?style=flat-square&logo=tensor-flow)
  
-
+<h3 align="left">My Github Stats:</h3>
+<div align="center">
+  <a href="https://github.com/caiquemiranda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquemiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemiranda&layout=compact&langs_count=7&theme=dracula"/>
+</div>
