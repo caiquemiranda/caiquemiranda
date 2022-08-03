@@ -47,4 +47,4 @@
 
 <br/>
 
-https://img.shields.io/twitter/follow/caiquemirand4_?style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/caiquemirand4_)
