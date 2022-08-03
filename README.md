@@ -29,3 +29,9 @@
  
 <h3 align="left">Views and Followers:</h3>
 <a href="https://github.com/caiquemiranda/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=caiquemiranda"></a>
+
+<br/>
+
+<a href="https://github.com/caiquemiranda/github-readme-activity-graph"><img alt="Ashishkumar Rana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=caiquemiranda&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+
+<br/>
