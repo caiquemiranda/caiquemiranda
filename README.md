@@ -8,11 +8,11 @@
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
 <a href="https://github.com/caiquemiranda">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caiquemiranda&show_icons=true&theme=github_dark&include_commits=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=caiquemiranda&show_icons=true&theme=github_dark&include_commits=true"/>
 </a>
 
 <a href="https://github.com/caiquemiranda">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemiranda&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemiranda&layout=compact&langs_count=8&theme=github_dark"/>
 </a>
 
 <br></br>
