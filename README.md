@@ -8,7 +8,7 @@
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
 <a href="https://github.com/caiquemiranda">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caiquemiranda&show_icons=true&theme=github_dark&include_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caiquemiranda&show_icons=true&theme=github_dark&include_commits=true"/>
 </a>
 
 <a href="https://github.com/caiquemiranda">
