@@ -9,10 +9,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=caiquemiranda&show_icons=true&theme=github_dark&include_commits=true"/>
 </a>
 
-<a href="https://github.com/caiquemiranda">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemiranda&layout=compact&langs_count=8&theme=github_dark"/>
-</a>
-
 <br></br>
 
  ## 🚀 **Linguagens e Ferramentas:**
