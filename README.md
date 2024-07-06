@@ -1,8 +1,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquemirand4//)](https://www.linkedin.com/in/caiquemirand4//)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white&link=https://www.kaggle.com/caiquemiranda)](https://www.kaggle.com/caiquemiranda)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&link=https://mvalues.medium.com/)](https://mvalues.medium.com/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/caiquemirand4/)](https://www.instagram.com/caiquemirand4/)
-
 <br></br>
 
  ## 🚀 **Linguagens e Ferramentas:**
