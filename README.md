@@ -45,6 +45,9 @@
  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
  ![Pycharm](https://img.shields.io/badge/-Pycharm-black?logo=pycharm&logoColor=green&style=flat)
  ![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=maroon)
+ ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)
+ ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
+ ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)
  ---
  📈 Data Analysis:
 
