@@ -23,8 +23,8 @@
  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
- ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 ---
  💾 Databases:
 
@@ -41,7 +41,7 @@
 ---
  💻 IDEs/Editors:
 
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+ ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
  ![Pycharm](https://img.shields.io/badge/-Pycharm-black?logo=pycharm&logoColor=green&style=flat)
  ![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=maroon)
