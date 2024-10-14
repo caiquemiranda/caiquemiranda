@@ -10,13 +10,19 @@
  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=black)
  ![Go](https://img.shields.io/badge/go-3776AB?style=flat&logo=GO&logoColor=white)
  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+ ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
  ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ---
  🌐 Web:
 
  ![Django](https://img.shields.io/badge/Django-092E20?style=fflat&logo=django&logoColor=white)
+ ![FastApi](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+ ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+ ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+ ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
+ ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
  ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ---
