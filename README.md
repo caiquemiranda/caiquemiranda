@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquemirand4//)](https://www.linkedin.com/in/caiquemirand4//)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquemirand4)](https://www.linkedin.com/in/caiquemirand4//)
 <br></br>
 
  ## 🚀 **Linguagens e Ferramentas:**
